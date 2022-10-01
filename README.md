@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlthafHussainK
 - 👀 I’m interested in **_Web Technologies_**
-- 🌱 I’m currently learning 🔅Redux
 - 📫 Reach me @althafhussain_k
 
 <!---
